@@ -265,3 +265,137 @@ nav{
     font-weight: 300;
     padding: 0px 13px 0px 13px;
 }
+/* table section */
+.news{
+    width: 1320px;
+    height: 1240px;
+    margin: 0px auto;
+    margin-top: 70px;
+}
+.news-description{
+    margin-top: 30px;
+    color: #0E0E0E;
+    font-size: 15px;
+    font-weight: 300px;
+}
+.news-title{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+}
+.news-1{
+    display: flex;
+    flex-direction: row;
+    height: 350px;
+    justify-content: space-around;
+    margin-top: 32px;
+    align-items: center;
+    text-align: justify;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 20px;
+}
+.news-item-title{
+    color: #0E0E0E;
+    font-family: 20px;
+    font-weight: bold;
+}
+.news-item-img{
+margin-top: 12px;
+}
+.news-item-time{
+    margin-top: 12px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #0E0E0E;
+}
+.news-item-dick{
+    margin-top: 12px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #0E0E0E;
+}
+.news-btn{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    color: #006A50;
+    font-size: 30;
+    font-weight: bold;
+    border: none;
+    transform: background-color 0.3 ease;
+    cursor: pointer;
+    margin-top: 24px;
+}
+.news-btn:hover{
+    background-color: rgb(237,154,148);
+}
+.news-img{
+    width: 70px;
+    margin: 0px 32px;
+    border: 2px solid gray;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 30px;
+    object-fit: cover;
+}
+.Donate{
+    max-width: 1320px;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 80px;
+}
+.donate-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.donate-description{
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 400px;
+}
+.donate-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px 60px;
+    margin-top: 32px;
+}
+.donate-item-list{
+    border: 2px solid gray;
+    padding: 40px 40px;
+    border-radius: 20px;
+    transform: background-color 0.3 ease;
+}
+.active{
+    background-color: #C6E4D6;
+}
+.donate-item-list:hover{
+    background-color: #C6E4D6;
+}
+.donate-item-list h4{
+    font-size: 40px;
+    font-weight: bold;
+}
+input{
+    max-width: 1320px;
+    width: 75%;
+    height: 64px;
+    text-align: center;
+}
+.donate-btn{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    color: #fff;
+    font-size: 18;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    transform: background-color 0.3 ease;
+    margin-top: 30px;
+}
+.donate-btn-hover:{
+    transform: translate(-10px);
+}
