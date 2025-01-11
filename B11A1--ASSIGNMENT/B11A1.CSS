@@ -113,3 +113,170 @@ nav{
     margin-top: 24px;
 
 }
+.future{
+    width: 1320px;
+    height: 765px;
+    margin: 0px auto;
+    margin-top: 80px;
+}
+.future-containar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    margin-top: 32px;
+    box-sizing: border-box;
+}
+.future-title{
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: bold;
+}
+.future-description{
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.box-1{
+    padding: 32px;
+    background-color: #5490F5;
+    border-radius: 16px;
+}
+.box-2{
+    padding: 32px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+}
+.box-3{
+    padding: 32px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+}
+.box-1-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-top: 24px;
+}
+.box-2-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-top: 24px
+}
+.box-3-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-top: 24px  
+}
+.box1-description{
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #0E0E0E;
+}
+.box2-description{
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #0E0E0E;
+}
+.box3-description{
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #0E0E0E
+}
+.future-btn-1{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    margin-top: 34px;
+    transition: background-color 0.3 ease;
+}
+.future-btn-1:hover{
+    background-color: rgb(237,110,206);
+}
+.future-btn-1{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    margin-top: 34px;
+    transition: background-color 0.3 ease;
+}
+.future-btn-1:hover{
+    background-color: rgb(237,110,206);
+}
+.future-btn-2{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    margin-top: 34px;
+    transition: background-color 0.3 ease;
+}
+.future-btn-2:hover{
+    background-color: rgb(33,205,224);
+}
+.future-btn-3{
+    padding: 15px 30px 15px 30px;
+    border-radius: 8px;
+    background-color: #FFC239;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    margin-top: 34px;
+    transition: background-color 0.3 ease;
+}
+.future-btn-3:hover{
+    background-color: rgb(22,17,21);
+}
+.Quote{
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 1px solid rgb(226,226,226);
+    margin-top: 32px;
+    background-color: #FFFFFF;
+    height: 250px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 20px 20px;
+    background-size: 70px 70px;
+    box-shadow: 0 4px 6px #D5D6D8;
+
+
+}
+.Quote-title{
+    font-size: 20px;
+    font-weight: 300;
+    color: #0E0E0E;
+    padding: 0px 13px 0px 13px;    
+}
+.Quote-description{
+    margin-top: 48px;
+    padding: 10px 24px 0px 12px;
+    margin-bottom: 15px;
+}
+.Quote-sub-title{
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 0px 13px 0px 13px;
+}
