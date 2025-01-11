@@ -203,21 +203,6 @@ nav{
 .future-btn-1:hover{
     background-color: rgb(237,110,206);
 }
-.future-btn-1{
-    padding: 15px 30px 15px 30px;
-    border-radius: 8px;
-    background-color: #5490F5;
-    color: #fff;
-    font-size: 18px;
-    font-weight: 400;
-    cursor: pointer;
-    border: none;
-    margin-top: 34px;
-    transition: background-color 0.3 ease;
-}
-.future-btn-1:hover{
-    background-color: rgb(237,110,206);
-}
 .future-btn-2{
     padding: 15px 30px 15px 30px;
     border-radius: 8px;
